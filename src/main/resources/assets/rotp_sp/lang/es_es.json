@@ -1,0 +1,35 @@
+{
+  "item.rotp_sp.henchman_spawn_egg": "Generar Secuaz",
+  "item.rotp_sp.henchman2_spawn_egg": "Generar Secuaz",
+  "item.rotp_sp.instructor_spawn_egg": "Generar Instructor",
+
+  "rotp_sp.chat.message.learnt_sp": "Ahora puedes usar Poder S",
+  "rotp_sp.chat.message.new_sp_learner": "%s quiere comenzar a aprender Poder S (interactuar con el para enseñarle Poder S)",
+  "rotp_sp.chat.message.cant_learn_sp": "tienes un poder incompatible con Poder S",
+
+  "entity.rotp_sp.henchman": "Secuaz",
+  "entity.rotp_sp.henchman2": "Secuaz",
+  "entity.rotp_sp.instructor": "Instructor",
+
+  "advancements.rotp_sp.instructors_house.title": "Es Speedwagon, es real",
+  "advancements.rotp_sp.instructors_house.description": "Tomenme una foto con...",
+  "advancements.rotp_sp.get_speedwagon.title": "Oh my god, esto va a ser épico papus",
+  "advancements.rotp_sp.get_speedwagon.description": "",
+  "advancements.rotp_sp.sp_kill_hamon.title": "Prende tu mic...",
+  "advancements.rotp_sp.sp_kill_hamon.description": "Eres un manco como Yair17",
+  "advancements.rotp_sp.sp_kill_vampire.title": "Chamaco levantate",
+  "advancements.rotp_sp.sp_kill_vampire.description": "Un manco como Yair17",
+  "advancements.rotp_sp.sp_kill_stand.title": "No tienes nivel",
+  "advancements.rotp_sp.sp_kill_stand.description": "Yo le puedo ganar al gallito de Zelika",
+
+  "non_stand.jojo.speedwagon": "SpeedWagon",
+  "action.jojo.attack1": "Lanzar sombrero",
+  "action.jojo.attack2": "Ataque con el martillo",
+  "action.jojo.skill1": "Invocar secuaces",
+  "action.jojo.skill2": "Correr",
+  "action.jojo.skill3": "abdomen caliente",
+  "jojo.message.action_condition.no_energy_speedwagon": "Estoy cansado jefe",
+  "jojo.message.action_condition.hat": "¿Donde esta tu Sombrero De Cuchilla?",
+  "jojo.message.action_condition.hammer": "¿Donde esta tu Mazo de hierro?",
+  "jojo.message.action_condition.no_more_henchmen": "No puedes tener más secuaces"
+}

@@ -1,0 +1,35 @@
+{
+  "item.rotp_sp.henchman_spawn_egg": "Henchman Spawn Egg",
+  "item.rotp_sp.henchman2_spawn_egg": "Henchman Spawn Egg",
+  "item.rotp_sp.instructor_spawn_egg": "Instructor Spawn Egg",
+
+  "rotp_sp.chat.message.learnt_sp": "You can now use Power S",
+  "rotp_sp.chat.message.new_sp_learner": "%s wants to start learning S Power (interact with them to teach him Power S)",
+  "rotp_sp.chat.message.cant_learn_sp": "You already have a power incompatible with S Power",
+
+  "entity.rotp_sp.henchman": "Henchman",
+  "entity.rotp_sp.henchman2": "Henchman",
+  "entity.rotp_sp.instructor": "Instructor",
+
+  "advancements.rotp_sp.instructors_house.title": "It's Speedwagon, it's real",
+  "advancements.rotp_sp.instructors_house.description": "Take a photo of me with...",
+  "advancements.rotp_sp.get_speedwagon.title": "Omg, this is going to be epic guys",
+  "advancements.rotp_sp.get_speedwagon.description": "",
+  "advancements.rotp_sp.sp_kill_hamon.title": "Turn on your microphone...",
+  "advancements.rotp_sp.sp_kill_hamon.description": "You are a noob like Yair17",
+  "advancements.rotp_sp.sp_kill_vampire.title": "kid get up",
+  "advancements.rotp_sp.sp_kill_vampire.description": "A noob like Yair17",
+  "advancements.rotp_sp.sp_kill_stand.title": "You don't have a level",
+  "advancements.rotp_sp.sp_kill_stand.description": "I can beat Zelika",
+
+  "non_stand.jojo.speedwagon": "SpeedWagon",
+  "action.jojo.attack1": "Throw Hat",
+  "action.jojo.attack2": "Attack with the hammer",
+  "action.jojo.skill1": "Summon Henchmen",
+  "action.jojo.skill2": "Run",
+  "action.jojo.skill3": "Hot Abs",
+  "jojo.message.action_condition.no_energy_speedwagon": "I'm tired boss",
+  "jojo.message.action_condition.hat": "Where is your Blade Hat?",
+  "jojo.message.action_condition.hammer": "Where is your Iron Sledgehammer?",
+  "jojo.message.action_condition.no_more_henchmen": "You can't have more henchmen"
+}

@@ -1,0 +1,18 @@
+{
+  "user_tutorial_stand": {
+    "subtitle": "rotp_tutorial.subtitle.tutorial_stand_name",
+    "sounds": [ "rotp_tutorial:stand_user/user_tutorial_stand", "rotp_tutorial:stand_user/user_tutorial_stand_2", "rotp_tutorial:stand_user/user_tutorial_stand_free_3", "rotp_tutorial:stand_user/user_tutorial_stand_4" ]
+  },
+  "tutorial_stand_ora": {
+    "subtitle": "jojo.subtitle.ora",
+    "sounds": [ "rotp_tutorial:stand/tutorial_stand_ora" ]
+  },
+  "tutorial_stand_ora_long": {
+    "subtitle": "jojo.subtitle.ora",
+    "sounds": [ "rotp_tutorial:stand/tutorial_stand_ora_long", "rotp_tutorial:stand/tutorial_stand_ora_long_2" ]
+  },
+  "tutorial_stand_ora_ora_ora": {
+    "subtitle": "jojo.subtitle.ora_ora_ora",
+    "sounds": [ "rotp_tutorial:stand/tutorial_stand_ora_ora_ora", "rotp_tutorial:stand/tutorial_stand_ora_ora_ora_2", "rotp_tutorial:stand/tutorial_stand_ora_ora_ora_3" ]
+  }
+}

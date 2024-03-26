@@ -1,0 +1,33 @@
+{
+  "parent": "jojo:jojo/root",
+  "display": {
+    "icon": {
+      "item": "minecraft:stone_bricks"
+    },
+    "title": {
+      "translate": "advancements.rotp_sp.instructors_house.title"
+    },
+    "description": {
+      "translate": "advancements.rotp_sp.instructors_house.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "in_house": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "location": {
+          "feature": "rotp_sp:instructors_house"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "in_house"
+    ]
+  ]
+}

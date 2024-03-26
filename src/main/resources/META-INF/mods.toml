@@ -1,0 +1,44 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GNU GPL v3.0"
+[[mods]]
+modId="rotp_sp"
+version="${file.jarVersion}"
+displayName="RotP S"
+logoFile="examplemod.png"
+credits='''
+
+  Skin:
+    Henchman - https://www.minecraftskins.com/skin/21877836/tattoo--jojo---s-bizarre-adventure-/
+    Henchman - https://www.minecraftskins.com/skin/21874210/kempo-fighter--jojo---s-bizarre-adventure-/
+    Instructor - https://www.minecraftskins.com/skin/21868618/robert-e--o--speedwagon--jojo---s-bizarre-adventure-/
+'''
+authors="DanielGamer321, StandoByte"
+description='''
+An addon for the Ripples of the Past mod, adding a new power that starts with S and ends with n.
+'''
+[[dependencies.rotp_sp]] #optional
+    # the modid of the dependency
+    modId="forge" #mandatory
+    # Does this dependency have to exist - if not, ordering below must be specified
+    mandatory=true #mandatory
+    # The version range of the dependency
+    versionRange="[36,)" #mandatory
+    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
+    ordering="NONE"
+    # Side this dependency is applied on - BOTH, CLIENT or SERVER
+    side="BOTH"
+# Here's another dependency
+[[dependencies.rotp_sp]]
+    modId="minecraft"
+    mandatory=true
+# This version range declares a minimum of the current minecraft version up to but not including the next major version
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.rotp_sp]]
+    modId="jojo"
+    mandatory=true
+    versionRange="[0.2.2,0.3)"
+    ordering="AFTER"
+    side="BOTH"
